@@ -1,10 +1,10 @@
-# 🔮 Telegram Horoscope Bot
+# Telegram Horoscope Bot
 
 A simple Telegram bot that delivers daily horoscopes to users based on their zodiac sign and selected day (today, tomorrow, yesterday, or a specific date). Built with Python, Telebot (pyTelegramBotAPI), and deployed for on [Render](https://render.com) to keep the bot alive.
 
 ---
 
-## 🚀 Features
+## Features
 
 - `/start` or `/hello` - greet the bot
 - `/horoscope` — start the horoscope flow:
@@ -18,7 +18,7 @@ A simple Telegram bot that delivers daily horoscopes to users based on their zod
 
 ---
 
-## 📲 How to Use the Bot
+## How to Use the Bot
 
 1. Open Telegram and search for [@rm_horoscope_bot](https://t.me/rm_horoscope_bot)
 2. Type `/start` or `/hello` to begin
@@ -26,11 +26,11 @@ A simple Telegram bot that delivers daily horoscopes to users based on their zod
 4. Follow the prompts:
    - Select your zodiac sign (e.g. Leo, Aries)
    - Choose a day (`today`, `tomorrow`, `yesterday`, or a full date)
-5. Get your daily prediction instantly 🌟
+5. Get your daily prediction instantly
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - Python
 - Flask (to keep Render port alive)
